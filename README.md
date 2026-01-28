@@ -1,6 +1,7 @@
 # Jest CI Demo
 
 ![WORKFLOW_NAME](https://github.com/handechasacademy/TaskManager/actions/workflows/ci.yml/badge.svg)
+[![codecov](https://codecov.io/gh/handechasacademy/TaskManager/branch/main/graph/badge.svg)](https://codecov.io/gh/handechasacademy/TaskManager)
 
 
 # Task List
