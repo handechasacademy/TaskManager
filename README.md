@@ -1,3 +1,8 @@
+# Jest CI Demo
+
+![WORKFLOW_NAME](https://github.com/handechasacademy/TaskManager/actions/workflows/ci.yml/badge.svg)
+
+
 # Task List
 
 A small web app to add, complete, and delete tasks dynamically using HTML, CSS, and JavaScript.
